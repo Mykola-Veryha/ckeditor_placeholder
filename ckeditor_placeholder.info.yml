@@ -1,0 +1,8 @@
+name: CKEditor Placeholder Plugin
+type: module
+description: "CKEditor Placeholder Plugin."
+package: Custom
+core_version_requirement: ^8 || ^9
+
+dependencies:
+  - drupal:ckeditor
